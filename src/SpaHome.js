@@ -16,7 +16,7 @@ export default class Home extends React.Component{
                 <Panel.Body>Basic example Basic example Basic example Basic example Basic example
                     Basic example Basic example Basic example Basic example Basic example
                     Basic example Basic example Basic example Basic example Basic example
-                    Basic example Basic example Basic example Basic example Basic example </Panel.Body>
+                    Basic example Basic example Basic example Basic example Basic example lallalalla.... </Panel.Body>
             </Panel>
         </div>
             )
