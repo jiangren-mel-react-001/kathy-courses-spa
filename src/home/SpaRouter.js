@@ -11,12 +11,12 @@ import {
     Link
 } from 'react-router-dom';
 import {Navbar, Nav, MenuItem,NavItem} from 'react-bootstrap';
-import './spaFrame.css';
+import '../css/spaFrame.css';
 import Home from './SpaHome';
-import Teachers from './SpaTeachers';
-import Class from './SpaClass';
-import SignIn from './SpaSignIn';
-import SignOut from './SpaSignOut';
+import Teachers from '../teachers/SpaTeachers';
+import Class from '../course/SpaClass';
+import SignIn from '../signInOut/SpaSignIn';
+import SignOut from '../signInOut/SpaSignOut';
 
 export default class TryBootStrap extends React.Component{
     constructor(){

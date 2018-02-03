@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import {Image,Grid,Col,Row} from 'react-bootstrap';
-import './spaFrame.css';
+import '../css/spaFrame.css';
 export default class Teachers extends React.Component{
      constructor(){
          super();

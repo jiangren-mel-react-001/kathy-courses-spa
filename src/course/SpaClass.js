@@ -1,6 +1,6 @@
 import React from 'react';
 import {Button} from 'react-bootstrap';
-import './spaFrame.css';
+import '../css/spaFrame.css';
 
 export default class Class extends React.Component{
     constructor(props){

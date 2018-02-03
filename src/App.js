@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import SpaRouter from './SpaRouter'
+import SpaRouter from './home/SpaRouter'
 
 class App extends Component {
   render() {
